@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "KrausePortfolio",
   "resources": {
-    "hash": "sha256-iFr8VNXW4igTUjjHM/UqW7vthXbOJsY8dtMwrsoSX5g=",
+    "hash": "sha256-l0uW3rDug/Qs5iMx+FnoxkX2VOAeipmkquUZDDfu8dg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.t32damlu4o.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -195,23 +195,23 @@
       "netstandard.lp03u0xxi4.wasm": "netstandard.wasm",
       "System.Private.CoreLib.9ecf2cskpd.wasm": "System.Private.CoreLib.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.50iqa8w3ys.js": "dotnet.native.js",
-      "dotnet.native.pk43x8e436.wasm": "dotnet.native.wasm",
-      "dotnet.runtime.ew19f13umk.js": "dotnet.runtime.js",
+      "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
+      "dotnet.native.21mns4qp4i.wasm": "dotnet.native.wasm",
+      "dotnet.runtime.st3wwc8rqy.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "KrausePortfolio.zlj1cpclat.wasm": "KrausePortfolio.wasm",
-      "KrausePortfolio.woncndd71v.pdb": "KrausePortfolio.pdb"
+      "KrausePortfolio.8mn524exyo.wasm": "KrausePortfolio.wasm",
+      "KrausePortfolio.ff0ny2mh5n.pdb": "KrausePortfolio.pdb"
     },
     "jsModuleNative": {
-      "dotnet.native.50iqa8w3ys.js": "sha256-pQdXuxfVeqYHOwd5HUM2ERd7OnXirj9JTF37b6OdTAc="
+      "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.ew19f13umk.js": "sha256-Isv/63htfX73xgn3/2cZMtk4S8xBcbmlXRgJMDv4mhI="
+      "dotnet.runtime.st3wwc8rqy.js": "sha256-oBRKHAqZUsvCRnCzkQfB7zc45cpKLNq2NKyrG10IKx8="
     },
     "wasmNative": {
-      "dotnet.native.pk43x8e436.wasm": "sha256-6fprjjfQGsopiMetOMnTFT7N83KgQiUia8r8F1s/HUI="
+      "dotnet.native.21mns4qp4i.wasm": "sha256-RtuwNrUOdAJ5A4aS4ZmceO4ySriaYqTdC7X++6yd9lM="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -412,10 +412,10 @@
       "WindowsBase.361km0836k.wasm": "sha256-FacUCEIJYTnbOWgX/R9QP2QnurqRZwRIkDAH0N9z69s=",
       "mscorlib.qiu3j3msqk.wasm": "sha256-QvztpxTOEw4aMIl7zP3QtsPLNv/IWaK5wq22J4ReGrA=",
       "netstandard.lp03u0xxi4.wasm": "sha256-WVQsxULiAiEbyXLKolS7txnWVT82SsvsuMe4jJ+SqqI=",
-      "KrausePortfolio.zlj1cpclat.wasm": "sha256-h6mcj4d7rfxX5u9ijLWqSK+Xo3eeZVLt4mzw+IafC7c="
+      "KrausePortfolio.8mn524exyo.wasm": "sha256-MAfz23E+G8S5bhpSWEFhelnDQwyLuurWLlmIcO0tMW8="
     },
     "pdb": {
-      "KrausePortfolio.woncndd71v.pdb": "sha256-8F3VHVry//kH3VAh460eznmRKsoD3qkxUv6FMPVXTL8="
+      "KrausePortfolio.ff0ny2mh5n.pdb": "sha256-FVSktAaAL+X8NMLdOpskOEgA8/49iC5A8b/Gv4vILdE="
     }
   },
   "cacheBootResources": true,

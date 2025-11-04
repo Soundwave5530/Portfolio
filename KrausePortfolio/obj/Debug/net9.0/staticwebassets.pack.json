@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/bundle/KrausePortfolio.styles.css",
+      "PackagePath": "staticwebassets/KrausePortfolio.styles.css"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/Tag.png",
+      "PackagePath": "staticwebassets/images/Tag.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/sgwf-ui-example.png",
+      "PackagePath": "staticwebassets/images/sgwf-ui-example.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/swimming.png",
+      "PackagePath": "staticwebassets/images/swimming.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/videos/Voting_2.mp4",
+      "PackagePath": "staticwebassets/videos/Voting_2.mp4"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.KrausePortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.KrausePortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.KrausePortfolio.props",
+      "PackagePath": "build\\KrausePortfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.KrausePortfolio.props",
+      "PackagePath": "buildMultiTargeting\\KrausePortfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.KrausePortfolio.props",
+      "PackagePath": "buildTransitive\\KrausePortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
