@@ -1,0 +1,256 @@
+@page "/projects"
+
+<div class="projects-container">
+    <h2 class="page-title slide-in-left">My Projects</h2>
+    <hr class="slide-in-right"/>
+    <br />
+    <br />
+    <br />
+    
+    <div class="projects-grid">
+        @foreach (var project in projects)
+        {
+            <div class="project-card fade-in-up">
+
+                <!-- Main Project Image -->
+                @if (!string.IsNullOrEmpty(project.ImageUrl))
+                {
+                    <div class="project-image-container" @onclick="() => OpenModal(project.ImageUrl, project.Title)">
+                        <img src="@project.ImageUrl" alt="@project.Title" class="project-image" />
+                        <div class="image-overlay">
+                            <div class="zoom-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zoom-in-icon lucide-zoom-in"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/><line x1="11" x2="11" y1="8" y2="14"/><line x1="8" x2="14" y1="11" y2="11"/></svg>
+                            </div>
+                        </div>
+                    </div>
+                }
+                
+                <!-- Project Content -->
+                <div class="project-content">
+
+                    <!-- Title and Date -->
+                    <div class="project-header">
+                        <h3 class="project-title">@project.Title</h3>
+                        <span class="project-date">@project.Date</span>
+                    </div>
+                    
+                    <!-- Description -->
+                    <p class="project-description">@project.Description</p>
+                    
+                    <!-- Image Gallery -->
+                    <div class="image-gallery">
+                        @foreach (var item in project.GalleryItems)
+                        {
+                            <div class="gallery-item" @onclick="() => OpenModal(item.Url, item.Description, item.Type)">
+                                @if (item.Type == "image")
+                                {
+                                    <img src="@item.Url" alt="@project.Title screenshot" class="gallery-image" />
+                                }
+                                else if (item.Type == "video")
+                                {
+                                    <video class="gallery-video" muted>
+                                        <source src="@item.Url" type="video/mp4" />
+                                        Your browser does not support the video tag.
+                                    </video>
+                                }
+
+                                <div class="gallery-overlay">
+                                    <div class="gallery-zoom-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/><line x1="11" x2="11" y1="8" y2="14"/><line x1="8" x2="14" y1="11" y2="11"/></svg>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+
+
+
+                    <!-- Highlights -->
+                    <div class="project-highlights">
+                        <h4 class="highlights-title">Key Highlights:</h4>
+                        <ul class="highlights-list">
+                            @foreach (var highlight in project.Highlights)
+                            {
+                                <li>@highlight</li>
+                            }
+                        </ul>
+                    </div>
+                    
+                    <!-- Technology Tags -->
+                    <div class="project-tags">
+                        @foreach (var tech in project.Technologies)
+                        {
+                            <span class="tag">@tech</span>
+                        }
+                    </div>
+                    
+                    <!-- GitHub Link -->
+                    @if (!string.IsNullOrEmpty(project.Link))
+                    {
+                        <a href="@project.Link" target="_blank" rel="noopener noreferrer" class="project-link">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-github-icon lucide-github"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>
+                            <span>View on GitHub</span>
+                            <span class="arrow">→</span>
+                        </a>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- IMAGE MODAL -->
+@if (showModal)
+{
+    <div class="modal-overlay" @onclick="CloseModal">
+        <div class="modal-content" @onclick:stopPropagation="true">
+            
+            @if (modalMediaType == "image")
+            {
+                <img src="@modalImageUrl" alt="Project screenshot" class="modal-image" />
+            }
+            else if (modalMediaType == "video")
+            {
+                <video autoplay loop class="modal-video">
+                    <source src="@modalImageUrl" type="video/mp4" />
+                    Your browser does not support the video tag.
+                </video>
+            }
+
+            <button class="modal-close" @onclick="CloseModal">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+            </button>
+
+            <p class="modal-description">@modalImageDescription</p>
+        </div>
+    </div>
+}
+
+
+@code {
+    
+    // Project class - defines the project
+    public class Project
+    {
+        public string Title { get; set; } = "";
+        public string Date { get; set; } = "";
+        public string Description { get; set; } = "";
+
+        public List<string> Technologies { get; set; } = new();
+        public List<string> Highlights { get; set; } = new();
+
+        public string Link { get; set; } = "";
+        public string ImageUrl { get; set; } = "";
+
+        public List<GalleryMedia> GalleryItems { get; set; } = new();
+    }
+
+    public class GalleryMedia
+    {
+        public string Url { get; set; } = "";
+        public string Description { get; set; } = "";
+        public string Type { get; set; } = "image";
+    }
+
+
+    // Image Modal - zoomy thing
+    private bool showModal = false;
+    private string modalImageUrl = "";
+    private string modalImageDescription = "";
+    private string modalMediaType = "image";
+
+    private void OpenModal(string url, string description, string type = "image")
+    {
+        modalImageUrl = url;
+        modalImageDescription = description;
+        modalMediaType = type;
+        showModal = true;
+    }
+
+    private void CloseModal()
+    {
+        showModal = false;
+    }
+
+    // List of all projects
+    private List<Project> projects = new()
+    {
+        new Project
+        {
+            Title = "Silly Games with Friends",
+            Date = "SUMMER 2025",
+            Description = "Over Summer of 2025, I worked on a personal passion project I called Silly Games with Friends. Originally, this project started out as a way for me to introduce myself into the world of Networking, then grew in scale as I began investing more and more time into the project. I was able to create a working product in about 2 months. I stopped working on the project around September 2025 to pursue other game development opportunities and ideas to lead me towards professional development.",
+            Technologies = new List<string> { "C#", "Godot Engine", "Networking", "Multiplayer", "State Management" },
+            Highlights = new List<string>
+            {
+                "Custom networking for player synchronization",
+                "Client/server communication and latency handling",
+                "Gained experience with online networking concepts"
+            },
+            Link = "https://github.com/Soundwave5530/Silly-Games-with-Friends",
+            ImageUrl = "images/Tag.png",
+            GalleryItems = new List<GalleryMedia>
+            {
+                new GalleryMedia { Url = "images/swimming.png", Description = "Many combinations of 'goober' to become" },
+                new GalleryMedia { Url = "videos/Voting_2.mp4", Description = "Game Voting sequence with UI synchronization", Type = "video" },
+                new GalleryMedia { Url = "images/sgwf-ui-example.png", Description = "Custom UI design and menu system" }
+            }
+        },
+        new Project
+        {
+            Title = "XR Research",
+            Date = "SUMMER 2025",
+            Description = "Conducted independent research on VR/MR development in Godot (C#), focusing on input handling and environment interaction. Explored XR usability and design principles, working with Meta Quest 3 to understand the XR industry and latest innovations.",
+            Technologies = new List<string> { "C#", "Godot Engine", "VR/MR", "XR Development", "Meta Quest 3" },
+            Highlights = new List<string>
+            {
+                "Explored XR usability and design principles",
+                "Navigating XR development environments",
+                "Input handling and environment interaction in VR"
+            },
+            Link = "",
+            ImageUrl = "images/xr-research.png",
+        },
+        new Project
+        {
+            Title = "Code Quest 2025",
+            Date = "SPRING 2025",
+            Description = "Competed in Lockheed Martin's Code Quest 2025, solving algorithmic challenges under time constraints with a 3-member team. Two-hour competition where teams competed to complete the most coding problems within the time limit.",
+            Technologies = new List<string> { "Python", "Algorithms", "Team Collaboration", "Problem Solving", "Competitive" },
+            Highlights = new List<string>
+            {
+                "Collaborated with 3-member team under pressure",
+                "Solved algorithmic challenges with time constraints",
+                "Learned to work collaboratively while under pressure"
+            },
+            Link = "",
+            ImageUrl = "images/code-quest.png",
+            GalleryItems = new List<GalleryMedia>
+            {
+                new GalleryMedia { Url = "https://via.placeholder.com/400x300/7f1d1d/ffffff?text=Competition", Description = "Working through problems during the competition" },
+                new GalleryMedia { Url = "https://via.placeholder.com/400x300/7f1d1d/ffffff?text=Teamwork", Description = "Collaborating with teammates" }
+            }
+        },
+        new Project
+        {
+            Title = "Character Crib",
+            Date = "SCHOOL PROJECT",
+            Description = "Developed a home for a character from a book. Created floor plan schematics, a 3D model of the entire house, and a physical model. Presented the finalized project to the class with full details.",
+            Technologies = new List<string> { "3D Modeling", "CAD", "Presentation Skills", "Project Planning" },
+            Highlights = new List<string>
+            {
+                "Created detailed floor plan schematics",
+                "Built complete 3D model and physical prototype",
+                "Presented project with full technical details to class"
+            },
+            Link = "",
+            ImageUrl = "images/character-crib.png",
+            GalleryItems = new List<GalleryMedia>
+            {
+                new GalleryMedia { Url = "https://via.placeholder.com/400x300/7f1d1d/ffffff?text=Physical+Model", Description = "Physical model of the bedroom" },
+                new GalleryMedia { Url = "https://via.placeholder.com/400x300/7f1d1d/ffffff?text=Floor+Plan", Description = "Detailed floor plan schematics" }
+            }
+        }
+    };
+}
