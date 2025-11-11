@@ -25,6 +25,58 @@
       "PackagePath": "staticwebassets/images/Tag.png"
     },
     {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/adobe-illustrator.png",
+      "PackagePath": "staticwebassets/images/certifications/adobe-illustrator.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/autodesk-fusion.png",
+      "PackagePath": "staticwebassets/images/certifications/autodesk-fusion.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/excel-expert.png",
+      "PackagePath": "staticwebassets/images/certifications/excel-expert.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/excel.png",
+      "PackagePath": "staticwebassets/images/certifications/excel.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/maya.png",
+      "PackagePath": "staticwebassets/images/certifications/maya.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/mos-associate.png",
+      "PackagePath": "staticwebassets/images/certifications/mos-associate.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/mos-expert.png",
+      "PackagePath": "staticwebassets/images/certifications/mos-expert.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/outlook.png",
+      "PackagePath": "staticwebassets/images/certifications/outlook.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/pcap.png",
+      "PackagePath": "staticwebassets/images/certifications/pcap.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/pcep.png",
+      "PackagePath": "staticwebassets/images/certifications/pcep.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/powerpoint.png",
+      "PackagePath": "staticwebassets/images/certifications/powerpoint.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/word-expert.png",
+      "PackagePath": "staticwebassets/images/certifications/word-expert.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/certifications/word.png",
+      "PackagePath": "staticwebassets/images/certifications/word.png"
+    },
+    {
       "Id": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/images/sgwf-ui-example.png",
       "PackagePath": "staticwebassets/images/sgwf-ui-example.png"
     },

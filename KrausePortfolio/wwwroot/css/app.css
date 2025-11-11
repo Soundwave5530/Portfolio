@@ -229,6 +229,8 @@ p {
     border: 2px solid var(--gray-borders);
     border-radius: 12px;
     padding: 24px;
+    padding-left: 24px;
+    padding-top: 0px;
     margin-bottom: 20px;
 
     transition: all 0.3s ease;
@@ -243,6 +245,7 @@ p {
 .card h3 {
     color: var(--red-light);
     margin-bottom: 12px;
+    margin-top: 24px;
     font-size: 32px;
     font-weight: bold;
 }
@@ -252,6 +255,7 @@ p {
     line-height: 1.6;
     text-align: left;
 }
+
 .card .accent {
     color: var(--red-light);
 }
@@ -897,4 +901,70 @@ p {
     .gallery-item {
         height: 150px; 
     }
+}
+
+
+
+/* Certification Card */
+
+
+
+.skill-card {
+    display: flex;
+    align-items: stretch; 
+    background: var(--gray-cards);
+    border: 2px solid var(--gray-borders);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+
+.skill-card-image {
+    height: 256px;
+    width: 256px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.skill-card-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1 1 auto;
+    margin-left: 24px;
+}
+
+.skill-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(185, 28, 28, 0.2);
+    border-color: var(--red-accent);
+}
+
+.skill-card h3 {
+    color: var(--red-light);
+    margin: 0 0 12px 0;
+    font-size: 28px;
+    font-weight: bold;
+    flex: 0 0 auto;
+}
+
+.skill-card p {
+    color: var(--gray-text);
+    line-height: 1.6;
+    margin: 0;
+    flex: 1 1 auto;
+    text-align: left;
+}
+
+.skill-card-bottom {
+    flex: 0 0 auto;
+    margin-top: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.skill-card .accent {
+    color: var(--red-light);
 }

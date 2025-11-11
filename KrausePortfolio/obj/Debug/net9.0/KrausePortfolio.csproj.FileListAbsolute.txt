@@ -1091,8 +1091,6 @@ C:/Users/andre/OneDrive/Documents/GitHub/KrausePortfolio/KrausePortfolio/obj/Deb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.9ih887ebfz.js
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.21mns4qp4i.wasm
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/dotnet.runtime.st3wwc8rqy.js
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.ff0ny2mh5n.pdb
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.8mn524exyo.wasm
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.up1bcx14yi.wasm
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Components.t32damlu4o.wasm
@@ -1337,7 +1335,6 @@ C:/Users/andre/OneDrive/Documents/GitHub/KrausePortfolio/KrausePortfolio/obj/Deb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.ServiceModel.Web.fe0qhluytj.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Debug.sv7gj5hica.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Tools.gnqqoc5sga.wasm.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.ff0ny2mh5n.pdb.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Data.Common.177seeycj4.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.8brefk0072.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Globalization.Calendars.lms0ws1b0z.wasm.gz
@@ -1441,7 +1438,6 @@ C:/Users/andre/OneDrive/Documents/GitHub/KrausePortfolio/KrausePortfolio/obj/Deb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Numerics.4whrkr4q9d.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Security.SecureString.nn591g7k5x.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Intrinsics.fl0j5j1zx7.wasm.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.8mn524exyo.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.t1coq8ujqt.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.ComponentModel.Annotations.hcsxtxbx68.wasm.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/dotnet.native.9ih887ebfz.js.gz
@@ -1897,12 +1893,9 @@ C:/Users/andre/OneDrive/Documents/GitHub/KrausePortfolio/KrausePortfolio/obj/Deb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/blazor.build.boot-extension.json
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/blazor.boot.json
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-bx0j3y3wu2.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-iq79m15715.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/vablhz4m35-vnc9dmv67p.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/8j6e88rv4l-md9yvkcqlf.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-452o5q3n4j.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-452o5q3n4j.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/th1gncuqo1-tnyc7xpluy.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/gndrnpihw6-t32damlu4o.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/lo8lp1whua-up1bcx14yi.gz
@@ -2103,9 +2096,6 @@ C:/Users/andre/OneDrive/Documents/GitHub/KrausePortfolio/KrausePortfolio/obj/Deb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/0ydwblq16r-tjcz0u77k5.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/xiqo19jrqk-tptq2av103.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/j244l71cca-lfu7j35m59.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8mn524exyo.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-ff0ny2mh5n.gz
-/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-41kxtf38qc.gz
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/staticwebassets.build.json
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/staticwebassets.development.json
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -2120,3 +2110,13 @@ C:/Users/andre/OneDrive/Documents/GitHub/KrausePortfolio/KrausePortfolio/obj/Deb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/refint/KrausePortfolio.dll
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/KrausePortfolio.pdb
 /home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/ref/KrausePortfolio.dll
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-34rciuzlpe.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-34rciuzlpe.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-i4ajioh80f.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.c8wt7mtscf.pdb
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.8qtvjqq6h4.wasm
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.c8wt7mtscf.pdb.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.8qtvjqq6h4.wasm.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8qtvjqq6h4.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-c8wt7mtscf.gz
+/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-lyebpk63q3.gz

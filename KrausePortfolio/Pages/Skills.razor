@@ -1,1 +1,166 @@
 @page "/skills"
+
+<div class="skills-container">
+    <h2 class="page-title slide-in-left">Skills</h2>
+    <hr class="slide-in-right"/>
+    <br />
+    <br />
+    <br />
+
+    <div class="card fade-in-up">
+        <h3>Certifications</h3>
+        <p>This section consists of my industry-grade certifications I have earned over the years.</p>
+        <br />
+    </div>
+    @foreach (var cert in certifications)
+    {
+        <div class="skill-card fade-in-up">
+            <img class="skill-card-image" src="@cert.ImageUrl">
+
+            <div class="skill-card-content">
+                <h3>@cert.Name</h3>
+                <p>@cert.Description</p>
+
+                <div class="skill-card-bottom">
+                    @foreach (var tag in cert.Tags)
+                    {
+                        <span class="tag">@tag</span>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+
+    public class Certification
+    {
+        public string Name { get; set; } = "";
+        public string Description { get; set; } = "";
+
+        public string ImageUrl { get; set; } = "";
+
+        public List<string> Tags { get; set; } = new();
+    }
+
+    private List<Certification> certifications = new()
+    {
+
+        new Certification
+        {
+            Name = "Autodesk Maya Certified User (ACU)",
+            Description = "Autodesk Certified User in Maya — validated skills in 3D modelling, texturing and basic animation.",
+            ImageUrl = "images/certifications/maya.png",
+            Tags = {"3D Modeling", "Animation", "Autodesk", "Maya"}
+        },
+
+        // Issued: Dec 06, 2024
+        new Certification
+        {
+            Name = "PCEP — Certified Entry-Level Python Programmer",
+            Description = "Entry-level Python certification from the Python Institute demonstrating core syntax and problem solving.",
+            ImageUrl = "images/certifications/pcep.png",
+            Tags = {"Programming", "Python", "Entry"}
+        },
+
+        // Issued: Feb 12, 2025
+        new Certification
+        {
+            Name = "PCAP — Certified Associate in Python Programming",
+            Description = "Associate-level Python certification covering OOP, modules, and intermediate programming concepts.",
+            ImageUrl = "images/certifications/pcap.png",
+            Tags = {"Programming", "Python", "Associate"}
+        },
+
+        // Issued: Apr 29, 2024
+        new Certification
+        {
+            Name = "Autodesk Fusion Certified User",
+            Description = "Core skills in Fusion 360 for CAD modelling, assemblies and basic CAM workflows (Certiport).",
+            ImageUrl = "images/certifications/autodesk-fusion.png",
+            Tags = {"CAD", "Fusion360", "Autodesk"}
+        },
+
+        // Expires: May 21, 2028
+        new Certification
+        {
+            Name = "Adobe Certified Professional in Illustrator",
+            Description = "Adobe Certified Professional in Illustrator — vector artwork, typography and file prep for production.",
+            ImageUrl = "images/certifications/adobe-illustrator.png",
+            Tags = {"Graphic Design", "Illustration", "Adobe", "Illustrator"}
+        },
+
+        // Issued: Dec 16, 2022
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: PowerPoint Associate (Office 2019)",
+            Description = "Associate-level PowerPoint certification demonstrating presentation creation and formatting in Office 2019.",
+            ImageUrl = "images/certifications/powerpoint.png",
+            Tags = {"Microsoft Office", "PowerPoint", "Office 2019", "Productivity"}
+        },
+
+        // Issued: Mar 24, 2023
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Word Associate (Office 2019)",
+            Description = "Associate-level Word certification covering document creation, formatting and collaboration in Office 2019.",
+            ImageUrl = "images/certifications/word.png",
+            Tags = {"Microsoft Office", "Word", "Office 2019", "Productivity"}
+        },
+
+        // Issued: Dec 13, 2023
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)",
+            Description = "Associate Excel certification focused on formulas, data analysis and workbook management in Microsoft 365.",
+            ImageUrl = "images/certifications/excel.png",
+            Tags = {"Microsoft Office", "Excel", "Microsoft 365", "Data"}
+        },
+
+        // Issued: Dec 13, 2023
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Associate (Microsoft 365 Apps)",
+            Description = "Associate-level certification covering core Office productivity skills across Microsoft 365 apps.",
+            ImageUrl = "images/certifications/mos-associate.png",
+            Tags = {"Microsoft Office", "Microsoft 365", "Productivity"}
+        },
+
+        // Issued: Nov 21, 2024
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Word Expert (Microsoft 365 Apps)",
+            Description = "Expert-level Word certification demonstrating advanced document automation and complex formatting in M365.",
+            ImageUrl = "images/certifications/word-expert.png",
+            Tags = {"Microsoft Office", "Word", "Expert", "Microsoft 365"}
+        },
+
+        // Issued: Dec 06, 2024
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Excel Expert (Office 2019)",
+            Description = "Expert Excel certification for advanced formulas, pivot tables and complex data solutions (Office 2019).",
+            ImageUrl = "images/certifications/excel-expert.png",
+            Tags = {"Microsoft Office", "Excel", "Expert", "Office 2019"}
+        },
+
+        // Issued: Dec 06, 2024
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Expert (Microsoft 365 Apps)",
+            Description = "Expert-level certification across Microsoft 365 demonstrating advanced capabilities in core Office apps.",
+            ImageUrl = "images/certifications/mos-expert.png",
+            Tags = {"Microsoft Office", "Expert", "Microsoft 365"}
+        },
+
+        // Issued: May 09, 2025
+        new Certification
+        {
+            Name = "Microsoft Office Specialist: Outlook Associate (Office 2019)",
+            Description = "Associate-level Outlook certification focusing on email management, calendaring and productivity in Office 2019.",
+            ImageUrl = "images/certifications/outlook.png",
+            Tags = {"Microsoft Office", "Outlook", "Office 2019", "Productivity"}
+        },
+    };
+}
