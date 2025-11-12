@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KrausePortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca80577d93e0baecef97c2c5e09a3b74e08f49f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ae201b21367cdf59faca3080e9958f37943bbb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("KrausePortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KrausePortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

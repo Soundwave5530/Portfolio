@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i4ajioh80f</Fingerprint>
-      <Integrity>/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o=</Integrity>
+      <Fingerprint>kbl38nq78q</Fingerprint>
+      <Integrity>UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -354,8 +354,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>iq79m15715</Fingerprint>
-      <Integrity>lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc=</Integrity>
+      <Fingerprint>2sfu7ji73w</Fingerprint>
+      <Integrity>nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -372,8 +372,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>34rciuzlpe</Fingerprint>
-      <Integrity>Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=</Integrity>
+      <Fingerprint>qd9lcxdjqg</Fingerprint>
+      <Integrity>Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\KrausePortfolio.styles.css'))</OriginalItemSpec>

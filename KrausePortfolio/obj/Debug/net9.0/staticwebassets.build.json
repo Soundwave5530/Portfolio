@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ycaGWHQi0aN9kAqo6Ce4Kkth0HkdGxKg0eizz5ylscM=",
+  "Hash": "+7w5K/KiCKksE6PpoV0L0PAcDoMWra1rS69LEMrsFNE=",
   "Source": "KrausePortfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "lyebpk63q3",
-      "Integrity": "fcnYIsQ7+010PTZwDX3t1kTUbrlthtFVJpclioJ8F18=",
+      "Fingerprint": "5nm4zcnnif",
+      "Integrity": "X9EL8b9HUSL+rHmnJG+j0dQpjT06cR0SMnEiQaHvQBU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/blazor.boot.json"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "c8wt7mtscf",
-      "Integrity": "bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c=",
+      "Fingerprint": "cvrngxw9ds",
+      "Integrity": "2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj/Debug/net9.0/KrausePortfolio.pdb"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "8qtvjqq6h4",
-      "Integrity": "wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q=",
+      "Fingerprint": "clfj5g0shh",
+      "Integrity": "sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/webcil/KrausePortfolio.wasm"
@@ -5246,12 +5246,12 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Contracts.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-i4ajioh80f.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-kbl38nq78q.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=i4ajioh80f}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=kbl38nq78q}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5260,8 +5260,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/css/app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "golgnjoofb",
-      "Integrity": "QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA=",
+      "Fingerprint": "4k6hwl4erd",
+      "Integrity": "jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/css/app.css"
@@ -5435,12 +5435,12 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Diagnostics.Tools.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-c8wt7mtscf.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-cvrngxw9ds.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/KrausePortfolio#[.{fingerprint=c8wt7mtscf}]!.pdb.gz",
+      "RelativePath": "_framework/KrausePortfolio#[.{fingerprint=cvrngxw9ds}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5449,8 +5449,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qeb51oiuvi",
-      "Integrity": "/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0=",
+      "Fingerprint": "bhsbyb95k6",
+      "Integrity": "76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.pdb"
@@ -6065,12 +6065,12 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-iq79m15715.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-2sfu7ji73w.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=iq79m15715}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=2sfu7ji73w}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6079,8 +6079,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dyy472hkg6",
-      "Integrity": "9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ=",
+      "Fingerprint": "t2oacnk76r",
+      "Integrity": "ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/index.html"
@@ -6212,12 +6212,12 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-34rciuzlpe.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-qd9lcxdjqg.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "KrausePortfolio#[.{fingerprint=34rciuzlpe}]!.bundle.scp.css.gz",
+      "RelativePath": "KrausePortfolio#[.{fingerprint=qd9lcxdjqg}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -6226,8 +6226,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o8f8ou801l",
-      "Integrity": "2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=",
+      "Fingerprint": "huln3odoq2",
+      "Integrity": "WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css"
@@ -7514,12 +7514,12 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Collections.Specialized.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-34rciuzlpe.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-qd9lcxdjqg.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "KrausePortfolio#[.{fingerprint=34rciuzlpe}]?.styles.css.gz",
+      "RelativePath": "KrausePortfolio#[.{fingerprint=qd9lcxdjqg}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -7528,8 +7528,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/bundle/KrausePortfolio.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o8f8ou801l",
-      "Integrity": "2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=",
+      "Fingerprint": "huln3odoq2",
+      "Integrity": "WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/bundle/KrausePortfolio.styles.css"
@@ -7682,12 +7682,12 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.Intrinsics.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8qtvjqq6h4.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-clfj5g0shh.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/KrausePortfolio#[.{fingerprint=8qtvjqq6h4}]!.wasm.gz",
+      "RelativePath": "_framework/KrausePortfolio#[.{fingerprint=clfj5g0shh}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7696,8 +7696,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "s860xh6clq",
-      "Integrity": "nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y=",
+      "Fingerprint": "4dxzy9btfy",
+      "Integrity": "WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.wasm"
@@ -7787,7 +7787,7 @@
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.wasm"
     },
     {
-      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-lyebpk63q3.gz",
+      "Identity": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-5nm4zcnnif.gz",
       "SourceId": "KrausePortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/",
@@ -7801,8 +7801,8 @@
       "RelatedAsset": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lg67mosvdb",
-      "Integrity": "ddJAAS5wU/RNBG27+NYeMZnUYV2oTcep4rVT0jTJCFs=",
+      "Fingerprint": "tqoajo0rgm",
+      "Integrity": "O1G5lEAs1vHNTnn4YG1wuxRpdJnSD1xKvC26okzrxYQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "34rciuzlpe",
-      "Integrity": "Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=",
+      "Fingerprint": "qd9lcxdjqg",
+      "Integrity": "Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/bundle/KrausePortfolio.styles.css"
@@ -8725,8 +8725,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "34rciuzlpe",
-      "Integrity": "Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=",
+      "Fingerprint": "qd9lcxdjqg",
+      "Integrity": "Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css"
@@ -8746,8 +8746,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i4ajioh80f",
-      "Integrity": "/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o=",
+      "Fingerprint": "kbl38nq78q",
+      "Integrity": "UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/app.css"
@@ -9145,8 +9145,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iq79m15715",
-      "Integrity": "lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc=",
+      "Fingerprint": "2sfu7ji73w",
+      "Integrity": "nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
@@ -9214,11 +9214,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fcnYIsQ7+010PTZwDX3t1kTUbrlthtFVJpclioJ8F18=\""
+          "Value": "\"X9EL8b9HUSL+rHmnJG+j0dQpjT06cR0SMnEiQaHvQBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9228,18 +9228,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fcnYIsQ7+010PTZwDX3t1kTUbrlthtFVJpclioJ8F18="
+          "Value": "sha256-X9EL8b9HUSL+rHmnJG+j0dQpjT06cR0SMnEiQaHvQBU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-lyebpk63q3.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-5nm4zcnnif.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081300813"
+          "Quality": "0.000081314035"
         }
       ],
       "ResponseHeaders": [
@@ -9249,15 +9249,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12299"
+          "Value": "12297"
         },
         {
           "Name": "ETag",
-          "Value": "\"ddJAAS5wU/RNBG27+NYeMZnUYV2oTcep4rVT0jTJCFs=\""
+          "Value": "\"O1G5lEAs1vHNTnn4YG1wuxRpdJnSD1xKvC26okzrxYQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:08:25 GMT"
+          "Value": "Wed, 12 Nov 2025 03:18:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9277,19 +9277,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fcnYIsQ7+010PTZwDX3t1kTUbrlthtFVJpclioJ8F18=\""
+          "Value": "W/\"X9EL8b9HUSL+rHmnJG+j0dQpjT06cR0SMnEiQaHvQBU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fcnYIsQ7+010PTZwDX3t1kTUbrlthtFVJpclioJ8F18="
+          "Value": "sha256-X9EL8b9HUSL+rHmnJG+j0dQpjT06cR0SMnEiQaHvQBU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-lyebpk63q3.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/se6ge2f2wk-5nm4zcnnif.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9298,7 +9298,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12299"
+          "Value": "12297"
         },
         {
           "Name": "Content-Type",
@@ -9306,11 +9306,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ddJAAS5wU/RNBG27+NYeMZnUYV2oTcep4rVT0jTJCFs=\""
+          "Value": "\"O1G5lEAs1vHNTnn4YG1wuxRpdJnSD1xKvC26okzrxYQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:08:25 GMT"
+          "Value": "Wed, 12 Nov 2025 03:18:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9328,7 +9328,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ddJAAS5wU/RNBG27+NYeMZnUYV2oTcep4rVT0jTJCFs="
+          "Value": "sha256-O1G5lEAs1vHNTnn4YG1wuxRpdJnSD1xKvC26okzrxYQ="
         }
       ]
     },
@@ -12152,7 +12152,7 @@
       ]
     },
     {
-      "Route": "_framework/KrausePortfolio.8qtvjqq6h4.wasm",
+      "Route": "_framework/KrausePortfolio.clfj5g0shh.wasm",
       "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12162,7 +12162,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "61205"
+          "Value": "66325"
         },
         {
           "Name": "Content-Type",
@@ -12170,11 +12170,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q=\""
+          "Value": "\"sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:07 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12184,7 +12184,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8qtvjqq6h4"
+          "Value": "clfj5g0shh"
         },
         {
           "Name": "label",
@@ -12192,18 +12192,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q="
+          "Value": "sha256-sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8="
         }
       ]
     },
     {
-      "Route": "_framework/KrausePortfolio.8qtvjqq6h4.wasm",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8qtvjqq6h4.gz",
+      "Route": "_framework/KrausePortfolio.clfj5g0shh.wasm",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-clfj5g0shh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059894586"
+          "Quality": "0.000049490250"
         }
       ],
       "ResponseHeaders": [
@@ -12213,15 +12213,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16695"
+          "Value": "20205"
         },
         {
           "Name": "ETag",
-          "Value": "\"nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y=\""
+          "Value": "\"WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12241,13 +12241,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q=\""
+          "Value": "W/\"sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8qtvjqq6h4"
+          "Value": "clfj5g0shh"
         },
         {
           "Name": "label",
@@ -12255,13 +12255,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q="
+          "Value": "sha256-sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8="
         }
       ]
     },
     {
-      "Route": "_framework/KrausePortfolio.8qtvjqq6h4.wasm.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8qtvjqq6h4.gz",
+      "Route": "_framework/KrausePortfolio.clfj5g0shh.wasm.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-clfj5g0shh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12270,7 +12270,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16695"
+          "Value": "20205"
         },
         {
           "Name": "Content-Type",
@@ -12278,11 +12278,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y=\""
+          "Value": "\"WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12300,7 +12300,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8qtvjqq6h4"
+          "Value": "clfj5g0shh"
         },
         {
           "Name": "label",
@@ -12308,12 +12308,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y="
+          "Value": "sha256-WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec="
         }
       ]
     },
     {
-      "Route": "_framework/KrausePortfolio.c8wt7mtscf.pdb",
+      "Route": "_framework/KrausePortfolio.cvrngxw9ds.pdb",
       "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/bin/Debug/net9.0/wwwroot/_framework/KrausePortfolio.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12323,7 +12323,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34776"
+          "Value": "36152"
         },
         {
           "Name": "Content-Type",
@@ -12331,11 +12331,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c=\""
+          "Value": "\"2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:07 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12345,7 +12345,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c8wt7mtscf"
+          "Value": "cvrngxw9ds"
         },
         {
           "Name": "label",
@@ -12353,18 +12353,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c="
+          "Value": "sha256-2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU="
         }
       ]
     },
     {
-      "Route": "_framework/KrausePortfolio.c8wt7mtscf.pdb",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-c8wt7mtscf.gz",
+      "Route": "_framework/KrausePortfolio.cvrngxw9ds.pdb",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-cvrngxw9ds.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000036794466"
+          "Quality": "0.000035709184"
         }
       ],
       "ResponseHeaders": [
@@ -12374,15 +12374,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27177"
+          "Value": "28003"
         },
         {
           "Name": "ETag",
-          "Value": "\"/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0=\""
+          "Value": "\"76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12402,13 +12402,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c=\""
+          "Value": "W/\"2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c8wt7mtscf"
+          "Value": "cvrngxw9ds"
         },
         {
           "Name": "label",
@@ -12416,13 +12416,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c="
+          "Value": "sha256-2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU="
         }
       ]
     },
     {
-      "Route": "_framework/KrausePortfolio.c8wt7mtscf.pdb.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-c8wt7mtscf.gz",
+      "Route": "_framework/KrausePortfolio.cvrngxw9ds.pdb.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-cvrngxw9ds.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12431,7 +12431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27177"
+          "Value": "28003"
         },
         {
           "Name": "Content-Type",
@@ -12439,11 +12439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0=\""
+          "Value": "\"76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12461,7 +12461,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c8wt7mtscf"
+          "Value": "cvrngxw9ds"
         },
         {
           "Name": "label",
@@ -12469,7 +12469,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0="
+          "Value": "sha256-76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is="
         }
       ]
     },
@@ -12484,7 +12484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34776"
+          "Value": "36152"
         },
         {
           "Name": "Content-Type",
@@ -12492,11 +12492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c=\""
+          "Value": "\"2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:07 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12506,18 +12506,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c="
+          "Value": "sha256-2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU="
         }
       ]
     },
     {
       "Route": "_framework/KrausePortfolio.pdb",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-c8wt7mtscf.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-cvrngxw9ds.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000036794466"
+          "Quality": "0.000035709184"
         }
       ],
       "ResponseHeaders": [
@@ -12527,15 +12527,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27177"
+          "Value": "28003"
         },
         {
           "Name": "ETag",
-          "Value": "\"/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0=\""
+          "Value": "\"76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12555,19 +12555,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c=\""
+          "Value": "W/\"2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bJdetT1wJ0A2tOzQLqp+X5zBgxWInfccpjAlrJgWc/c="
+          "Value": "sha256-2GCpw0Cq01sSkzYsnwbvsBPAeIOcbKY5yLOmNsXyRCU="
         }
       ]
     },
     {
       "Route": "_framework/KrausePortfolio.pdb.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-c8wt7mtscf.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/akgrl8hu25-cvrngxw9ds.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12576,7 +12576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27177"
+          "Value": "28003"
         },
         {
           "Name": "Content-Type",
@@ -12584,11 +12584,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0=\""
+          "Value": "\"76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12606,7 +12606,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/pUhVwFBO0Kkxh+YkHcHcc0xYV9rntJFegcJGDFkGK0="
+          "Value": "sha256-76KvwtM7cm5JjzpXQOTF9D7TBJZsW//sRMsxUCvC6Is="
         }
       ]
     },
@@ -12621,7 +12621,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "61205"
+          "Value": "66325"
         },
         {
           "Name": "Content-Type",
@@ -12629,11 +12629,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q=\""
+          "Value": "\"sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:07 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12643,18 +12643,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q="
+          "Value": "sha256-sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8="
         }
       ]
     },
     {
       "Route": "_framework/KrausePortfolio.wasm",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8qtvjqq6h4.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-clfj5g0shh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059894586"
+          "Quality": "0.000049490250"
         }
       ],
       "ResponseHeaders": [
@@ -12664,15 +12664,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16695"
+          "Value": "20205"
         },
         {
           "Name": "ETag",
-          "Value": "\"nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y=\""
+          "Value": "\"WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12692,19 +12692,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q=\""
+          "Value": "W/\"sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJyP7H6v47PO3/haLPuR44/zup6rBhBtAEHjqyQLy3Q="
+          "Value": "sha256-sDrMP9jr8bw12d8FSD9hsxRWH+5r7x7SwzXyn5RmAV8="
         }
       ]
     },
     {
       "Route": "_framework/KrausePortfolio.wasm.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-8qtvjqq6h4.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/rgvahh7a5v-clfj5g0shh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12713,7 +12713,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16695"
+          "Value": "20205"
         },
         {
           "Name": "Content-Type",
@@ -12721,11 +12721,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y=\""
+          "Value": "\"WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 20:10:08 GMT"
+          "Value": "Wed, 12 Nov 2025 03:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12743,7 +12743,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nCRlo8jf7j4lSwBtFRE2preoUTeTIVFrEfz8Wsytc7Y="
+          "Value": "sha256-WFa1iOxweInj7S0ZytifeWTYK4NzGJCIgwI2IWvV3Ec="
         }
       ]
     },
@@ -69667,12 +69667,12 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-i4ajioh80f.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-kbl38nq78q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000286532951"
+          "Quality": "0.000312109863"
         }
       ],
       "ResponseHeaders": [
@@ -69682,15 +69682,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3489"
+          "Value": "3203"
         },
         {
           "Name": "ETag",
-          "Value": "\"QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA=\""
+          "Value": "\"jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 19:29:33 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69710,13 +69710,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o=\""
+          "Value": "W/\"UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o="
+          "Value": "sha256-UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8="
         }
       ]
     },
@@ -69731,7 +69731,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15520"
+          "Value": "14624"
         },
         {
           "Name": "Content-Type",
@@ -69739,11 +69739,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o=\""
+          "Value": "\"UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 19:29:33 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69753,13 +69753,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o="
+          "Value": "sha256-UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8="
         }
       ]
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-i4ajioh80f.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-kbl38nq78q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -69768,7 +69768,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3489"
+          "Value": "3203"
         },
         {
           "Name": "Content-Type",
@@ -69776,11 +69776,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA=\""
+          "Value": "\"jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 19:29:33 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69798,18 +69798,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA="
+          "Value": "sha256-jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg="
         }
       ]
     },
     {
-      "Route": "css/app.i4ajioh80f.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-i4ajioh80f.gz",
+      "Route": "css/app.kbl38nq78q.css",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-kbl38nq78q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000286532951"
+          "Quality": "0.000312109863"
         }
       ],
       "ResponseHeaders": [
@@ -69819,15 +69819,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3489"
+          "Value": "3203"
         },
         {
           "Name": "ETag",
-          "Value": "\"QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA=\""
+          "Value": "\"jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 19:29:33 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69847,13 +69847,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o=\""
+          "Value": "W/\"UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i4ajioh80f"
+          "Value": "kbl38nq78q"
         },
         {
           "Name": "label",
@@ -69861,12 +69861,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o="
+          "Value": "sha256-UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8="
         }
       ]
     },
     {
-      "Route": "css/app.i4ajioh80f.css",
+      "Route": "css/app.kbl38nq78q.css",
       "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/css/app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -69876,7 +69876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15520"
+          "Value": "14624"
         },
         {
           "Name": "Content-Type",
@@ -69884,11 +69884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o=\""
+          "Value": "\"UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 19:29:33 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69898,7 +69898,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i4ajioh80f"
+          "Value": "kbl38nq78q"
         },
         {
           "Name": "label",
@@ -69906,13 +69906,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/oOHeW1Tvpbo5xRClv31boKKolVilY7pZfcSKej7Y5o="
+          "Value": "sha256-UE3wd2XlcZWmmPhCvJzSXbttTaeptD+xKtqRIgnthH8="
         }
       ]
     },
     {
-      "Route": "css/app.i4ajioh80f.css.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-i4ajioh80f.gz",
+      "Route": "css/app.kbl38nq78q.css.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/9r6qvhavyb-kbl38nq78q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -69921,7 +69921,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3489"
+          "Value": "3203"
         },
         {
           "Name": "Content-Type",
@@ -69929,11 +69929,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA=\""
+          "Value": "\"jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Nov 2025 19:29:33 GMT"
+          "Value": "Wed, 12 Nov 2025 03:22:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -69951,7 +69951,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i4ajioh80f"
+          "Value": "kbl38nq78q"
         },
         {
           "Name": "label",
@@ -69959,7 +69959,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QAsyqMjO1MLCdMU2FhFbHf6DMvTJgKUtYNmF2N5S4oA="
+          "Value": "sha256-jHBdKA49QzG6t4xm1/mWPvEhs5amUXj2uBliMiHf9yg="
         }
       ]
     },
@@ -71440,13 +71440,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-iq79m15715.gz",
+      "Route": "index.2sfu7ji73w.html",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-2sfu7ji73w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002857142857"
+          "Quality": "0.000707213579"
         }
       ],
       "ResponseHeaders": [
@@ -71456,19 +71456,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "349"
+          "Value": "1413"
         },
         {
           "Name": "ETag",
-          "Value": "\"9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ=\""
+          "Value": "\"ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 03:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -71484,18 +71484,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc=\""
+          "Value": "W/\"nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "2sfu7ji73w"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc="
+          "Value": "sha256-nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "index.2sfu7ji73w.html",
       "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71505,7 +71513,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "653"
+          "Value": "5015"
         },
         {
           "Name": "Content-Type",
@@ -71513,121 +71521,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc=\""
+          "Value": "\"nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-iq79m15715.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "349"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ="
-        }
-      ]
-    },
-    {
-      "Route": "index.iq79m15715.html",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-iq79m15715.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002857142857"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "349"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 03:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iq79m15715"
+          "Value": "2sfu7ji73w"
         },
         {
           "Name": "label",
@@ -71635,13 +71543,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc="
+          "Value": "sha256-nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8="
         }
       ]
     },
     {
-      "Route": "index.iq79m15715.html",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/index.html",
+      "Route": "index.2sfu7ji73w.html.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-2sfu7ji73w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71650,7 +71558,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "653"
+          "Value": "1413"
         },
         {
           "Name": "Content-Type",
@@ -71658,56 +71566,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc=\""
+          "Value": "\"ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iq79m15715"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lubWZtztcVjMPG+F9rkmY1TGaN5ue6hB5eLiMz6IoVc="
-        }
-      ]
-    },
-    {
-      "Route": "index.iq79m15715.html.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-iq79m15715.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "349"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 03:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71725,7 +71588,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iq79m15715"
+          "Value": "2sfu7ji73w"
         },
         {
           "Name": "label",
@@ -71733,18 +71596,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9UhBgnraMcUrOA/1e2qjbLCwg7K/RB33RJfBx3RdLbQ="
+          "Value": "sha256-ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU="
         }
       ]
     },
     {
-      "Route": "KrausePortfolio.34rciuzlpe.bundle.scp.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-34rciuzlpe.gz",
+      "Route": "index.html",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-2sfu7ji73w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000520020801"
+          "Quality": "0.000707213579"
         }
       ],
       "ResponseHeaders": [
@@ -71754,19 +71617,156 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "1413"
         },
         {
           "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
+          "Value": "\"ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 03:10:38 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:10:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nuGWCJebpv7irkboXkuJBA5x/9vUGuBb9PNSeSmu4G8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/es21bna7kc-2sfu7ji73w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 03:10:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZeASmz18DSA29Wf55KZlLoqI4fMq/gyjUoAz2zb0sPU="
+        }
+      ]
+    },
+    {
+      "Route": "KrausePortfolio.bundle.scp.css",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-qd9lcxdjqg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001106194690"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -71782,26 +71782,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
+          "Value": "W/\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "34rciuzlpe"
-        },
-        {
-          "Name": "label",
-          "Value": "KrausePortfolio.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
         }
       ]
     },
     {
-      "Route": "KrausePortfolio.34rciuzlpe.bundle.scp.css",
+      "Route": "KrausePortfolio.bundle.scp.css",
       "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71811,7 +71803,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6843"
+          "Value": "3106"
         },
         {
           "Name": "Content-Type",
@@ -71819,11 +71811,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
+          "Value": "\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
+        }
+      ]
+    },
+    {
+      "Route": "KrausePortfolio.bundle.scp.css.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-qd9lcxdjqg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk="
+        }
+      ]
+    },
+    {
+      "Route": "KrausePortfolio.qd9lcxdjqg.bundle.scp.css",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-qd9lcxdjqg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001106194690"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qd9lcxdjqg"
+        },
+        {
+          "Name": "label",
+          "Value": "KrausePortfolio.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
+        }
+      ]
+    },
+    {
+      "Route": "KrausePortfolio.qd9lcxdjqg.bundle.scp.css",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71833,7 +71970,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "34rciuzlpe"
+          "Value": "qd9lcxdjqg"
         },
         {
           "Name": "label",
@@ -71841,13 +71978,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
         }
       ]
     },
     {
-      "Route": "KrausePortfolio.34rciuzlpe.bundle.scp.css.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-34rciuzlpe.gz",
+      "Route": "KrausePortfolio.qd9lcxdjqg.bundle.scp.css.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-qd9lcxdjqg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71856,7 +71993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "903"
         },
         {
           "Name": "Content-Type",
@@ -71864,11 +72001,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71886,7 +72023,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "34rciuzlpe"
+          "Value": "qd9lcxdjqg"
         },
         {
           "Name": "label",
@@ -71894,18 +72031,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8="
+          "Value": "sha256-WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk="
         }
       ]
     },
     {
-      "Route": "KrausePortfolio.34rciuzlpe.styles.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-34rciuzlpe.gz",
+      "Route": "KrausePortfolio.qd9lcxdjqg.styles.css",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-qd9lcxdjqg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000520020801"
+          "Quality": "0.001106194690"
         }
       ],
       "ResponseHeaders": [
@@ -71915,15 +72052,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "903"
         },
         {
           "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71943,13 +72080,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
+          "Value": "W/\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "34rciuzlpe"
+          "Value": "qd9lcxdjqg"
         },
         {
           "Name": "label",
@@ -71957,12 +72094,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
         }
       ]
     },
     {
-      "Route": "KrausePortfolio.34rciuzlpe.styles.css",
+      "Route": "KrausePortfolio.qd9lcxdjqg.styles.css",
       "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/bundle/KrausePortfolio.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71972,7 +72109,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6843"
+          "Value": "3106"
         },
         {
           "Name": "Content-Type",
@@ -71980,11 +72117,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
+          "Value": "\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71994,7 +72131,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "34rciuzlpe"
+          "Value": "qd9lcxdjqg"
         },
         {
           "Name": "label",
@@ -72002,13 +72139,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
         }
       ]
     },
     {
-      "Route": "KrausePortfolio.34rciuzlpe.styles.css.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-34rciuzlpe.gz",
+      "Route": "KrausePortfolio.qd9lcxdjqg.styles.css.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-qd9lcxdjqg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72017,7 +72154,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "903"
         },
         {
           "Name": "Content-Type",
@@ -72025,11 +72162,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72047,7 +72184,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "34rciuzlpe"
+          "Value": "qd9lcxdjqg"
         },
         {
           "Name": "label",
@@ -72055,155 +72192,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8="
-        }
-      ]
-    },
-    {
-      "Route": "KrausePortfolio.bundle.scp.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-34rciuzlpe.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000520020801"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1922"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
-        }
-      ]
-    },
-    {
-      "Route": "KrausePortfolio.bundle.scp.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/scopedcss/projectbundle/KrausePortfolio.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6843"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
-        }
-      ]
-    },
-    {
-      "Route": "KrausePortfolio.bundle.scp.css.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/g80o11h6ed-34rciuzlpe.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1922"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8="
+          "Value": "sha256-WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk="
         }
       ]
     },
     {
       "Route": "KrausePortfolio.styles.css",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-34rciuzlpe.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-qd9lcxdjqg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000520020801"
+          "Quality": "0.001106194690"
         }
       ],
       "ResponseHeaders": [
@@ -72213,15 +72213,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "903"
         },
         {
           "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72241,13 +72241,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
+          "Value": "W/\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
         }
       ]
     },
@@ -72262,7 +72262,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6843"
+          "Value": "3106"
         },
         {
           "Name": "Content-Type",
@@ -72270,11 +72270,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg=\""
+          "Value": "\"Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72284,13 +72284,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qw6BnfUPn8QL3+hS2y/nlANtfHGQsbTMDrgjdwLPflg="
+          "Value": "sha256-Qp0BgzWp0xSFm1rCpktEOif2gOJsa/vcpvVKc3UfQ9k="
         }
       ]
     },
     {
       "Route": "KrausePortfolio.styles.css.gz",
-      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-34rciuzlpe.gz",
+      "AssetFile": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/Debug/net9.0/compressed/q72ynuedxc-qd9lcxdjqg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72299,7 +72299,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1922"
+          "Value": "903"
         },
         {
           "Name": "Content-Type",
@@ -72307,11 +72307,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8=\""
+          "Value": "\"WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Nov 2025 23:35:55 GMT"
+          "Value": "Wed, 12 Nov 2025 00:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72329,7 +72329,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2DCWbxtdrOTtmj7EEvLM6s891hxs2DIhtaFdLtw8+H8="
+          "Value": "sha256-WeGYZtVCXDAXSvYIRI8c/uPlskJgVoWoDBSSuVEGTwk="
         }
       ]
     },
