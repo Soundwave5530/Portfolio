@@ -1033,10 +1033,10 @@
 /home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/Portfolio.pdb
 /home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/ref/Portfolio.dll
 /home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/fz3ga573iq-k4bif9cifg.gz
-/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.fnqf76i9bo.pdb
-/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.c6qxmdazs1.wasm
-/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.c6qxmdazs1.wasm.gz
-/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.fnqf76i9bo.pdb.gz
-/home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/hrigvdkto3-c6qxmdazs1.gz
-/home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/i0zbla0v0v-fnqf76i9bo.gz
-/home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/n4srf7eo0m-67le24u1mm.gz
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.hs8l46hzou.pdb
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.ismb3ulqfi.wasm
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.ismb3ulqfi.wasm.gz
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/wwwroot/_framework/Portfolio.hs8l46hzou.pdb.gz
+/home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/hrigvdkto3-ismb3ulqfi.gz
+/home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/i0zbla0v0v-hs8l46hzou.gz
+/home/andrew/Documents/GitHub/Portfolio/obj/Release/net9.0/compressed/n4srf7eo0m-hs3ne7qwj7.gz
