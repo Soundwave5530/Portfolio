@@ -5,8 +5,8 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/obj/Release/net9.0/scopedcss/bundle/KrausePortfolio.styles.css",
-      "PackagePath": "staticwebassets/KrausePortfolio.styles.css"
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/obj/Release/net9.0/scopedcss/bundle/Portfolio.styles.css",
+      "PackagePath": "staticwebassets/Portfolio.styles.css"
     },
     {
       "Id": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/wwwroot/css/app.css",
@@ -97,24 +97,24 @@
       "PackagePath": "staticwebassets/videos/Voting_2.mp4"
     },
     {
-      "Id": "obj/Release/net9.0/staticwebassets/msbuild.KrausePortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj/Release/net9.0/staticwebassets/msbuild.KrausePortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Release/net9.0/staticwebassets/msbuild.build.KrausePortfolio.props",
-      "PackagePath": "build\\KrausePortfolio.props"
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.build.Portfolio.props",
+      "PackagePath": "build\\Portfolio.props"
     },
     {
-      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildMultiTargeting.KrausePortfolio.props",
-      "PackagePath": "buildMultiTargeting\\KrausePortfolio.props"
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildMultiTargeting.Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio.props"
     },
     {
-      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildTransitive.KrausePortfolio.props",
-      "PackagePath": "buildTransitive\\KrausePortfolio.props"
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildTransitive.Portfolio.props",
+      "PackagePath": "buildTransitive\\Portfolio.props"
     }
   ],
   "ElementsToRemove": []
