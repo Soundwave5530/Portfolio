@@ -4,13 +4,16 @@
         <meta charset="utf-8" />
         <meta name="Portfolio" content="width=device-width, initial-scale=1.0" />
         <title>Portfolio</title>
-        <base href="/Portfolio/" />
+        <base href="/Portfolio" />
         <link href="css/app.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="favicon.png">
     </head>
     <body>
         <div id="app">
-            <h1 class="hero">Loading</h1>
-            <div class="loading-sq"></div>
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100vw; height: 100vh;">
+                <h1 class="loading">Loading</h1>
+                <div class="loading-sq"></div>
+            </div>
         </div>
         
         <script src="_framework/blazor.webassembly.js"></script>

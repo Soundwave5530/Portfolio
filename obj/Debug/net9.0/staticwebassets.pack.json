@@ -5,24 +5,12 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/obj/Debug/net9.0/scopedcss/bundle/Portfolio.styles.css",
-      "PackagePath": "staticwebassets/Portfolio.styles.css"
-    },
-    {
       "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
     {
       "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
-    },
-    {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/icon-192.png",
-      "PackagePath": "staticwebassets/icon-192.png"
-    },
-    {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/Tag.png",
-      "PackagePath": "staticwebassets/images/Tag.png"
     },
     {
       "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/certifications/adobe-illustrator.png",
@@ -77,12 +65,24 @@
       "PackagePath": "staticwebassets/images/certifications/word.png"
     },
     {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/sgwf-ui-example.png",
-      "PackagePath": "staticwebassets/images/sgwf-ui-example.png"
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/projects/code-quest/code-quest-logo.png",
+      "PackagePath": "staticwebassets/images/projects/code-quest/code-quest-logo.png"
     },
     {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/swimming.png",
-      "PackagePath": "staticwebassets/images/swimming.png"
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/projects/sgwf/Tag.png",
+      "PackagePath": "staticwebassets/images/projects/sgwf/Tag.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/projects/sgwf/sgwf-ui-example.png",
+      "PackagePath": "staticwebassets/images/projects/sgwf/sgwf-ui-example.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/projects/sgwf/swimming.png",
+      "PackagePath": "staticwebassets/images/projects/sgwf/swimming.png"
+    },
+    {
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/images/projects/xr-research/xr-research.png",
+      "PackagePath": "staticwebassets/images/projects/xr-research/xr-research.png"
     },
     {
       "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/index.html",
@@ -93,8 +93,8 @@
       "PackagePath": "staticwebassets/sample-data/weather.json"
     },
     {
-      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/videos/Voting_2.mp4",
-      "PackagePath": "staticwebassets/videos/Voting_2.mp4"
+      "Id": "/home/andrew/Documents/GitHub/Portfolio/wwwroot/videos/projects/sgwf/Voting_2.mp4",
+      "PackagePath": "staticwebassets/videos/projects/sgwf/Voting_2.mp4"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Portfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

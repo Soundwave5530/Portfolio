@@ -14,10 +14,10 @@
         <NavLink href="/Portfolio" class="nav-logo">AK</NavLink>
         <div class="nav-right">
             <ul class="nav-links">
-                <li><NavLink href="/Portfolio">Home</NavLink></li>
-                <li><NavLink href="/Portfolio/projects">Projects</NavLink></li>
-                <li><NavLink href="/Portfolio/skills">Skills</NavLink></li>
-                <li><NavLink href="/Portfolio/resume">Resume</NavLink></li>
+                <li><NavLink Match="NavLinkMatch.All" href="/Portfolio">Home</NavLink></li>
+                <li><NavLink Match="NavLinkMatch.All" href="/Portfolio/projects">Projects</NavLink></li>
+                <li><NavLink Match="NavLinkMatch.All" href="/Portfolio/skills">Skills</NavLink></li>
+                <li><NavLink Match="NavLinkMatch.All" href="/Portfolio/resume">Resume</NavLink></li>
             </ul>
         </div>
     </div>
@@ -37,7 +37,7 @@
     /* Theme Toggle */
     .theme-toggle-container {
         position: fixed;
-        top: 20px;
+        top: 10px;
         right: 40px;
         z-index: 1001;
     }
