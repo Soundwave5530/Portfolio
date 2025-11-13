@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/KrausePortfolio.csproj",
+      "projectUniqueName": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/KrausePortfolio.csproj",
       "projectName": "KrausePortfolio",
-      "projectPath": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/KrausePortfolio.csproj",
+      "projectPath": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/KrausePortfolio.csproj",
       "packagesPath": "/home/andrew/.nuget/packages/",
-      "outputPath": "/home/andrew/Documents/GitHub/Portfolio/KrausePortfolio/obj/",
+      "outputPath": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andrew/.nuget/NuGet/NuGet.Config"
