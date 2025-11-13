@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyU0n42dL2g=",
+  "dgSpecHash": "ZhIlsGAcd7I=",
   "success": true,
-  "projectFilePath": "/home/andrew/Documents/GitHub/Portfolio/Portfolio/Portfolio.csproj",
+  "projectFilePath": "/home/andrew/Documents/GitHub/Portfolio/Portfolio.csproj",
   "expectedPackageFiles": [
     "/home/andrew/.nuget/packages/microsoft.aspnetcore.authorization/9.0.8/microsoft.aspnetcore.authorization.9.0.8.nupkg.sha512",
     "/home/andrew/.nuget/packages/microsoft.aspnetcore.components/9.0.8/microsoft.aspnetcore.components.9.0.8.nupkg.sha512",

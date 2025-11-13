@@ -1,0 +1,4 @@
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/publish/launch.json
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/publish/settings.json
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/publish/tasks.json
+/home/andrew/Documents/GitHub/Portfolio/bin/Release/net9.0/publish/web.config
